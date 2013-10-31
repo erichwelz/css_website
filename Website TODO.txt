@@ -1,0 +1,22 @@
+Website TODO
+
+Decide on content
+
+Create Header/Footer
+
+Create pages:
+
+About Portfolio Interests Contact
+
+
+Header:
+
+pics w/image (site menu) > top row similar to:http://www.crystalnix.com/portfolio?id=1
+Footer:
+
+Links to: Twitter, Github, Linkedin, prior Blog
+	Find nice icons
+
+
+Build the CSS
+

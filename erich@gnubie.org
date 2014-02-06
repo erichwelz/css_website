@@ -2,65 +2,55 @@
 
 <html>
 	<head>
-    	<meta charset="UTF-8">
+		<meta charset="UTF-8">
         <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Raleway|Droid+Serif">
         <link rel="icon" href="../favicon.png">
         <style type="text/css"></style>
 
         <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-47235903-1', 'welz.ca');
-      ga('send', 'pageview');
-        </script>
+  ga('create', 'UA-47235903-1', 'welz.ca');
+  ga('send', 'pageview');
 
-        <!--[if lt IE 9]>
-            <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+</script>
 
         <title>Erich Welz: Web Developer, Volunteer, Renaissance Person</title>
 
 	</head>
 	<body>
 		<div id="header">
-		<p id="name">Erich Welz: Web Developer, Renaissance Person</p>
-		<a href="mailto:erich@welz.ca"><p id="email">erich@welz.ca</p></a>
+			<p id="name">Erich Welz: Web Developer, Volunteer, Renaissance Person</p>
+			<a href="mailto:erich@welz.ca"><p id="email">erich@welz.ca</p></a>
 		</div>
 
 		<div id="body">
 			      
-            <img id="mugshot" src="erich200px_2014.jpg" alt="" />
+            <img id="mugshot" src="erich200px.jpg" alt="" />
             
             <h4>About me:</h4>
             
-            <p>Hi. I'm a Toronto-based Ruby on Rails developer. I love writing code as it can make our world a little better and I have a burning desire to improve on our world, be that through writing software, fixing things or being engaged in my community.
-            </p>
+            <p>Hi. I recently decided to become a Ruby on Rails developer. Why, you might ask? I have always had a keen interest in technology and a burning desire to solve problems, just plain make things better, be it a process, a piece of software, an organization, the world we live in. Writing code is problem solving.</p>
 
-          <h4>Recent Web-stuff</h4>
-          
-           <p><a href="http://musicianfinder.herokuapp.com/">HomeBass; Rails app to find like-minded musicians</a></br>
-           <a href="./circle_game/index.html">Quirky Quarks; A simple game built in javascript to better understand it</a></br></p>
-        
-
-            <h4>Non-development stuff I can do for you:</h4>
-        <ul>
+            <h4>Other things I can do for you:</h4>
+                <ul>
             <li>Laptop Repair: screen replacement; hardware upgrades; cleaning</li>
             <li>Bicycle Repair: Anything, including wheel building</li>    
             <li>Website Maintenance: Joomla, Wordpress, Dreamweaver</li>
             <li>Piano Tuning</li>
-        </ul>
-
-            <h4>Languages I speak with some fluency</h4>
-    
-        <ul>                   
+                </ul>
+            <h4>Languages</h4>
+                <ul>
+                    
             <li>Ruby on Rails, Python, JavaScript, jQuery</li>
             <li>HTML 5, CSS 3</li>
             <li>English, German, French</li>        
-        </ul>
+            
+                </ul>
              
 		</div>
 		<div id="footer">

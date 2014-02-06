@@ -1,18 +1,10 @@
-Add CC license
+TODO
 
+Add: Current projects
+  MusicianFinder w/ Solr running?
+  Crowdfunder
 
-Website TODO
+CV in PDF
+DONE
 
-Decide on content
-
-Create Header/Footer
-
-Create pages:
-
-About Portfolio Interests Contact
-
-Header:
-
-pics w/image (site menu) > top row similar to:http://www.crystalnix.com/portfolio?id=1
-Footer:
-
+add CC license

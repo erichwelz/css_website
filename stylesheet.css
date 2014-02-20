@@ -105,13 +105,15 @@ img:hover{
     	opacity:1.0;
 }
 
-h4,h5{
+h4{
 	font-family: 'Droid Serif', Verdana, serif;
 	margin-left: 5px;
 	margin-bottom: 15px;
+	font-size: 18px
 }
 
 h5{
+	font-family: 'Droid Serif', Verdana, serif;
 	font-size: 14px;
 	margin-left: 10px; 
 }

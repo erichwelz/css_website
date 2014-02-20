@@ -41,9 +41,17 @@
  margin: 20px;
 }
 
+#mugshot_container
+	{
+		margin: auto;
+		padding: 20px;
+		display: block;
+		text-align: center;
+	}
+
 #mugshot {
- float: right;
- margin: 10px;
+ position: relative;
+
  border-radius: 5px
 }
 
@@ -83,10 +91,15 @@ img:hover{
     	opacity:1.0;
 }
 
-h4 {
+h4,h5{
 	font-family: 'Droid Serif', Verdana, serif;
 	margin-left: 5px;
 	margin-bottom: 15px;
+}
+
+h5{
+	font-size: 14px;
+	margin-left: 10px; 
 }
 
 li {

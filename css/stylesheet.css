@@ -42,22 +42,22 @@ h4{
 
 h5{
 	font-family: 'Droid Serif', Verdana, serif;
-	margin-bottom: 15px;
 	font-size: 23px;
 }
 
 header {
 	height: 100px;
 	font-family: 'Droid Serif', Verdana, serif;
-	background-color: #37C1DD;
+	background-color: #007BFF;
 	max-width: 1000px;
-	margin: 0 auto;
+	margin: auto;
 }
 
 main {
-	margin: 0 auto;
+
 	max-width: 1000px;
 	background-color: #f5f5f5;
+	margin: 0 auto;
 }
 
 footer {
@@ -75,7 +75,7 @@ footer {
 
 .mugshot_container
 	{
-		padding-top: 40px;
+		padding: 40px;
 		display: block;
 		text-align: center;
 	}
@@ -86,19 +86,10 @@ footer {
 }
 
 .name {
-	float:left;
+	float: left;
+	margin-left: 2em;
 	font-family: 'Droid Serif', Verdana, serif;
-	margin-left: 10px;
 	color: #ffffff;
-}
-
-.email{
-	float:right;
-	font-family: 'Droid Serif', Verdana, serif;
-	margin-right: 10px;
-	color: #ffffff;
-	font-size: 23px;
-	padding-top: 15px;
 }
 
 a:hover {
@@ -107,11 +98,11 @@ a:hover {
 
 .icons img{
  margin-top: 5px;
- opacity:0.75;
+ height: 64px;
 }
 
 .icons img:hover{
-    	opacity:1.0;
+    	opacity:0.75;
 }
 
 

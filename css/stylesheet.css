@@ -12,7 +12,7 @@
 }
 
 body {
-  background-color: #ccc;
+  background-color: #EEE;
   text-align: center;
   margin: 0 auto;
   margin-top:-50px;
@@ -50,7 +50,6 @@ h5{
 header {
 	height: 100px;
 	font-family: 'Droid Serif', Verdana, serif;
-	/*background-color: #007BFF;*/
 	background: -webkit-linear-gradient(top, #2e9bd4 0%, #116d9e 100%);
 	max-width: 1000px;
 	margin: 0 auto;
@@ -59,7 +58,7 @@ header {
 main {
 
 	max-width: 1000px;
-	background-color: #f5f5f5;
+	background-color: rgb(255, 255, 240);
 	margin: 0 auto;
 }
 

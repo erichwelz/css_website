@@ -6,13 +6,13 @@
 	secondary: 14px;
 */
 
-html, body {
-    margin: 0;
-    padding: 0;
+html, body{
+	margin: 0px;
+	padding: 0px;
 }
 
 * {
-	font-family: 'Droid Serif', Verdana, serif;
+	font-family: 'Open Sans', Verdana, sans-serif;
 	color: #333333;
 }
 
@@ -39,6 +39,12 @@ h1,h3,h4{
 	font-family: 'Raleway', Verdana, sans-serif;
 }
 
+h1{
+	font-size: 32px;
+	margin: 0;
+	padding: 0;
+}
+
 h3{
 	font-size: 30px;
 }
@@ -50,10 +56,8 @@ h4{
 header {
 	max-width: 1000px;
 	height: 100px;
-	font-family: 'Droid Serif', Verdana, serif;
 	background: -webkit-linear-gradient(top, #2e9bd4 0%, #116d9e 100%);
 	margin: 0 auto;
-	margin-top: -20px;
 }
 
 .name {
@@ -70,6 +74,10 @@ main {
 	margin: 0 auto;
 }
 
+#main_inner{
+	margin: 0 5%;
+}
+
 footer {
 	max-width: 1000px;
 	height: 100px;
@@ -78,9 +86,13 @@ footer {
 	margin: 0 auto;
 }
 
+
 .cc {
  float: right;
- margin: 20px;
+ margin-right: 25px;
+ position: relative;
+ top: 50%;
+ transform: translateY(-50%);
 }
 
 .mugshot_container

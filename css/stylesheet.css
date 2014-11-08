@@ -57,6 +57,7 @@ header {
 	max-width: 1000px;
 	height: 100px;
 	background: -webkit-linear-gradient(top, #2e9bd4 0%, #116d9e 100%);
+	background: -moz-linear-gradient(top, #2e9bd4 0%, #116d9e 100%);
 	margin: 0 auto;
 }
 
@@ -82,6 +83,7 @@ footer {
 	max-width: 1000px;
 	height: 100px;
 	background: -webkit-linear-gradient(top, #191919 0%, #4A4A4A 100%);
+	background: -moz-linear-gradient(top, #191919 0%, #4A4A4A 100%);
 	text-align: center;
 	margin: 0 auto;
 }

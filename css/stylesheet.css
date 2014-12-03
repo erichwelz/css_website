@@ -31,6 +31,7 @@ p,li {
   font-size: 18px;
 }
 
+
 li {
 	list-style-type: square;
 }
@@ -95,6 +96,10 @@ footer {
  position: relative;
  top: 50%;
  transform: translateY(-50%);
+}
+
+.center{
+	text-align: center;
 }
 
 .mugshot_container
